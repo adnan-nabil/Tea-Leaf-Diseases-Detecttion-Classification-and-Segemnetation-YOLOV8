@@ -1,7 +1,7 @@
 ---
 title: Tea Leaf Diseases Detection
 emoji: 🍃
-colorFrom: emerald
+colorFrom: red
 colorTo: green
 sdk: docker
 app_port: 7860
