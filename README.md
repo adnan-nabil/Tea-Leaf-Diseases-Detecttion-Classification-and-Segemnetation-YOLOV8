@@ -1,4 +1,4 @@
-# 🍃 Tea Leaf Disease Detection
+# 🍃 Tea Leaf Disease Detection by instance segmentation
 
 An instance segmentation system that detects and classifies diseases in tea leaves using a fine-tuned **YOLOv8m-seg** model, served through a **FastAPI** backend and deployed on **Hugging Face Spaces** with Docker.
 
