@@ -1,3 +1,4 @@
+
 # 🍃 Tea Leaf Disease Detection by instance segmentation
 
 An instance segmentation system that detects and classifies diseases in tea leaves using a fine-tuned **YOLOv8m-seg** model, served through a **FastAPI** backend and deployed on **Hugging Face Spaces** with Docker.
@@ -77,3 +78,17 @@ Visit the live app and upload a tea leaf image to see disease detection and segm
 ## 📌 Acknowledgements
 
 Dataset annotated and curated with [Roboflow](https://roboflow.com). Model built on [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics).
+
+---
+title: Tea Leaf Diseases Detection
+emoji: 🍃
+colorFrom: emerald
+colorTo: green
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
+# Tea Leaf Disease Detector UI
+This is a production-ready, lightweight FastAPI frontend and gateway dashboard that interfaces with a custom fine-tuned YOLOv8 instance segmentation model hosted externally on Hugging Face Spaces.
+
