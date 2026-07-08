@@ -5,3 +5,4 @@ data
 aug_data
 nonaug_data
 non-aug_data
+__pycache__
